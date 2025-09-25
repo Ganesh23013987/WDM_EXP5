@@ -125,17 +125,17 @@ if __name__ == "__main__":
 ### Output:
 
 #### AND:
-<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/37568b52-fdbd-4d2f-a8dc-220a7366386d" />
+<img width="950" height="950" alt="image" src="https://github.com/user-attachments/assets/37568b52-fdbd-4d2f-a8dc-220a7366386d" />
 
 
 #### OR:
 
-<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/61c9c7b2-abec-461f-9691-5956f5e792a7" />
+<img width="950" height="950" alt="image" src="https://github.com/user-attachments/assets/61c9c7b2-abec-461f-9691-5956f5e792a7" />
 
 
 #### NOT:
 
-<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/2d5ff42d-59a8-45f0-8359-26fd4f8703da" />
+<img width="950" height="950" alt="image" src="https://github.com/user-attachments/assets/2d5ff42d-59a8-45f0-8359-26fd4f8703da" />
 
 
 
